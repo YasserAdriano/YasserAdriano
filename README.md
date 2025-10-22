@@ -16,6 +16,7 @@ Conceitos: Estrutura de Dados, APIs, e fundamentos de Cloud.
 Estou buscando ativamente por oportunidades (como estágios ou projetos freelancer) que me permitam aplicar meu conhecimento em um ambiente real, colaborar com outros desenvolvedores e continuar evoluindo como profissional de tecnologia.
 
 📫 Vamos nos conectar!
+
 LinkedIn: www.linkedin.com/in/yasser-adriano
 
 E-mail: yasseradriano20@gmail.com
