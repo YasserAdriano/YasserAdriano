@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Olá! Eu sou o Yasser Adriano.
+Sou estudante de Ciência da Computação (3º semestre no CEUB, Brasília) e um entusiasta de tecnologia apaixonado por transformar ideias em código.
 
-<!--
-**YasserAdriano/YasserAdriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meus estudos são direcionados para três grandes áreas que me fascinam: Desenvolvimento Full Stack, Ciência de Dados e Computação em Nuvem.
 
-Here are some ideas to get you started:
+Este GitHub é onde eu documento minha jornada, compartilho meus projetos e coloco em prática o que aprendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Foco Atual
+Atualmente, estou me aprofundando e desenvolvendo habilidades em:
+
+Linguagens: Python e Java
+
+Conceitos: Estrutura de Dados, APIs, e fundamentos de Cloud.
+
+🌱 Objetivos
+Estou buscando ativamente por oportunidades (como estágios ou projetos freelancer) que me permitam aplicar meu conhecimento em um ambiente real, colaborar com outros desenvolvedores e continuar evoluindo como profissional de tecnologia.
+
+📫 Vamos nos conectar!
+LinkedIn: www.linkedin.com/in/yasser-adriano
+
+E-mail: yasseradriano20@gmail.com
